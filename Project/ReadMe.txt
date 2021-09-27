@@ -23,7 +23,6 @@ System Operation:
 
 --> ECU2
 	- The microntroller will toggle devices or turn all of them off:
-		• By sending '1' the user chooses to drive the 1st device either by toggling it on or off.
-		• By sending '2' the user chooses to drive the 2nd device either by toggling it on or off.
-		• By sending '3' the user chooses to drive the 3rd device either by toggling it on or off.
-		• By sending '0' the user can then turn all the devices off.
+		• By sending '0' the user chooses to drive the 1st device either by toggling it on or off.
+		• By sending '3' the user chooses to drive the 2nd device either by toggling it on or off.
+		
